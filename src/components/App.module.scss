@@ -1,0 +1,14 @@
+.title {
+  color: orangered;
+}
+
+.text {
+  font-size: 25px;
+
+  &__decoration {
+    text-decoration: underline;
+    color: orange;
+    cursor: pointer;
+  }
+
+}
